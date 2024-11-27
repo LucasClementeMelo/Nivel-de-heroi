@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Press Start 2P", cursive;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container h1 {
+    color: #d11919;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    align-items: center;
+}
+
+.container h2 {
+    color: #d11919;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    align-items: center;
+}
+
+.container img {
+    width: 100%;
+}
